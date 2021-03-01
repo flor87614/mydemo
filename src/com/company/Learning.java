@@ -19,6 +19,7 @@ public class Learning {
         flag = a != 3;
         flag = !flag;
         flag = true && false;
+
         System.out.println(flag);
 
         if (a < b) {
